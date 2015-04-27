@@ -26,13 +26,16 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
+    <ClCompile Include="dllmain.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="PE.cpp">
+    <ClCompile Include="PE.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="dllmain.cpp">
+    <ClCompile Include="stdafx.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DbgEngTemplate.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
