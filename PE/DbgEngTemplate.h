@@ -48,4 +48,5 @@ void ExtRelease(void);
 #define StackTrace       (ExtensionApis.lpStackTraceRoutine)
 
 
-#define FormatPrint    "    "
+#define FormatPrint    "     "
+#define LineEnd        "\n"

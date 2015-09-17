@@ -11,7 +11,7 @@ EXPORTS
 ; These are the extensions exported by dll
 ;--------------------------------------------------------------------
     pe
-
+	help
 ;--------------------------------------------------------------------
 ;
 ; these are the extension service functions provided for the debugger
